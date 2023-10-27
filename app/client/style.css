@@ -36,7 +36,6 @@ body .navbar {
   --bs-alert-bg: var(--matr-navbar-bg);
 }
 
-/* Define custom styles */
 .gray-background {
   background-color: var(--matr-navbar-bg);
   color: var(--bs-dark);
