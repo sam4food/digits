@@ -150,6 +150,7 @@ By default, each user only sees the Stuff that they have created.  However, the 
 When you retrieve the app at http://localhost:3000, this is what should be displayed:
 
 ![](https://github.com/sam4food/digits/blob/42365a59af1044a8b35ac1d68260689ac466dfce/doc/landing-page.png?raw=true)
+<img src="doc/landing-page.png">
 
 The next step is to use the Login menu to either Login to an existing account or register a new account.
 
