@@ -149,7 +149,7 @@ By default, each user only sees the Stuff that they have created.  However, the 
 
 When you retrieve the app at http://localhost:3000, this is what should be displayed:
 
-![](https://github.com/ics-software-engineering/meteor-application-template-react/raw/main/doc/landing-page.png)
+![](https://github.com/sam4food/digits/blob/42365a59af1044a8b35ac1d68260689ac466dfce/doc/landing-page.png)
 
 The next step is to use the Login menu to either Login to an existing account or register a new account.
 
@@ -157,20 +157,20 @@ The next step is to use the Login menu to either Login to an existing account or
 
 Clicking on the Login link, then on the Sign In menu item displays this page:
 
-![](https://github.com/ics-software-engineering/meteor-application-template-react/raw/main/doc/signin-page.png)
+![](https://github.com/sam4food/digits/blob/811d80594ef346a0281e15ffcbc0a6753d2b6829/doc/login-page.png)
 
 #### Register page
 
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
 
-![](https://github.com/ics-software-engineering/meteor-application-template-react/raw/main/doc/register-page.png)
+![](https://github.com/sam4food/digits/blob/42365a59af1044a8b35ac1d68260689ac466dfce/doc/register-page.png)
 
 
 #### Landing (after Login) page, non-Admin user
 
 Once you log in (either to an existing account or by creating a new one), the navbar changes as follows:
 
-![](https://github.com/ics-software-engineering/meteor-application-template-react/raw/main/doc/landing-after-login-page.png)
+![](https://github.com/sam4food/digits/blob/811d80594ef346a0281e15ffcbc0a6753d2b6829/doc/landing-after-login-page.png)
 
 You can now add new Stuff documents, and list the Stuff you have created. Note you cannot see any Stuff created by other users.
 
@@ -178,13 +178,17 @@ You can now add new Stuff documents, and list the Stuff you have created. Note y
 
 After logging in, here is the page that allows you to add new Stuff:
 
-![](https://github.com/ics-software-engineering/meteor-application-template-react/raw/main/doc/add-stuff-page.png)
+![](https://github.com/sam4food/digits/blob/c5fe91bfb73fd4584a8c43d5b890a39b17a3fd56/doc/add-contact.png)
 
 #### List Stuff page
 
 After logging in, here is the page that allows you to list all the Stuff you have created:
 
-![](https://github.com/ics-software-engineering/meteor-application-template-react/raw/main/doc/list-stuff-page.png)
+![](https://github.com/sam4food/digits/blob/811d80594ef346a0281e15ffcbc0a6753d2b6829/doc/list-contact-page.png)
+
+For each contact, you can create a timestamped note:
+
+![](https://github.com/sam4food/digits/blob/5c246f001592b212181d00a4c23b42956290a88f/doc/timestamp-thing.png)
 
 You click the "Edit" link to go to the Edit Stuff page, shown next.
 
@@ -192,19 +196,19 @@ You click the "Edit" link to go to the Edit Stuff page, shown next.
 
 After clicking on the "Edit" link associated with an item, this page displays that allows you to change and save it:
 
-![](https://github.com/ics-software-engineering/meteor-application-template-react/raw/main/doc/edit-stuff-page.png)
+![](https://github.com/sam4food/digits/blob/e0cd5c1f90a3dd26e964c139c6d157b971643f29/doc/edit-page.png)
 
 #### Landing (after Login), Admin user
 
 You can define an "admin" user in the settings.json file. This user, after logging in, gets a special entry in the navbar:
 
-![](https://github.com/ics-software-engineering/meteor-application-template-react/raw/main/doc/admin-landing-page.png)
+![](https://github.com/sam4food/digits/blob/811d80594ef346a0281e15ffcbc0a6753d2b6829/doc/landing-after-login-page.png)
 
 #### Admin page (list all users stuff)
 
 To provide a simple example of a "super power" for Admin users, the Admin page lists all of the Stuff by all of the users:
 
-![](https://github.com/ics-software-engineering/meteor-application-template-react/raw/main/doc/admin-list-stuff-page.png)
+![](https://github.com/sam4food/digits/blob/c5fe91bfb73fd4584a8c43d5b890a39b17a3fd56/doc/admin-admin-list-contacts-page.png)
 
 Note that non-admin users cannot get to this page, even if they type in the URL by hand.
 
