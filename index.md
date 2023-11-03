@@ -202,7 +202,7 @@ After clicking on the "Edit" link associated with an item, this page displays th
 
 You can define an "admin" user in the settings.json file. This user, after logging in, gets a special entry in the navbar:
 
-![](https://github.com/sam4food/digits/blob/main/doc/landing-after-login-page.png?raw=true)
+![](https://github.com/sam4food/digits/blob/main/doc/admin-list-contact-page.png?raw=true)
 
 #### Admin page (list all users stuff)
 
